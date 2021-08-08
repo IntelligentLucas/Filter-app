@@ -1,0 +1,26 @@
+.s{
+    font-size: 50px;
+    background-color: rgba(255, 255, 255, 0.616);
+    border-radius: 50px;
+    border: 5px solid rgba(0, 0, 0, 0.534);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.k{
+    font-size: 30px;
+    background-color: rgba(255, 247, 239, 0.637);
+    border-radius: 50px;
+    border: 5px solid rgba(0, 0, 0, 0.534);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.k:hover{
+    background-color: rgba(83, 246, 54, 0.637);
+}
+
+canvas{
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
